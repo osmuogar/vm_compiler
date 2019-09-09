@@ -1,0 +1,11 @@
+This project has been taken from the tutorial at
+[Creating a VM / Compiler Episode 1: Bytecode VM](https://www.youtube.com/watch?v=DUNkdl0Jhgs)
+
+
+Instructions:
+	- 'c': Store next character
+	- 'e': Print next character
+	- 'h': Stop virtual machine
+
+To check if the virtual machine has successfully shuted down:
+echo $? # Prints the last return code
